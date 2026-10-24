@@ -1,0 +1,4 @@
+$kind: http-request
+url: "{{baseUrl}}/api/fake-url"
+method: PATCH
+order: 6000
